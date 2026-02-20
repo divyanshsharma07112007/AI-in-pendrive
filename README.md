@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 # AI-in-pendrive
 🛠️ Project JARVIS-on-a-Stick
 
