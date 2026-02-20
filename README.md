@@ -28,7 +28,7 @@ Relative Pathing:
 All scripts rely on:
 
 os.path.dirname(__file__)
-# or
+or
 pathlib.Path.cwd()
 
 
